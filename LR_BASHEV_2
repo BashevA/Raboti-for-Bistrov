@@ -1,0 +1,6 @@
+v samom nachale i vospolzovalsya komandoj"mk" dir chtobi sozdat vse katalogi v pravilnom poryadke, kak ukazano v zadanii
+dalee po odnomu iz zadanii i vospolzovalsya komandoi "ln" s function "-s"  ctobi sozdat ssilku na katalog. sozdaval z ssilku v kataloge cat8.
+posle etogo i vospolzovalsya kimandoi "rmdir" chtobi delete duplicate catalogs
+chtobi delete nerazreshonnuyu ssilku i zashol v nuzhnii katalog and delete ssilku s by using comns"rm"
+sleduushim dejstviem milo sozdanie kataloga dir by using comand "mkdir" and sozdanie v nem file date by using comand "touch"
+
