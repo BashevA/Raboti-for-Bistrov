@@ -1,0 +1,4 @@
+cby using comand "/proc/cpuinfo" mojno uznat podrobnuu information ob cpu
+by using comand "vmstat" mojno uznat information ob kolichestve cvobognogo mesta v RAM, ispolzovanii CPU, kolichestve activnih and neactivnih processah
+by using comandu "free" mojno uznat information ob discah kotorie ispolzuutsya v sisteme.by using command "df" mojno uznat information o tom, skolko diskovogo prostranstva ispolzuet systema
+by using comand "du" mojno uznat information ob razmere interesuushego vas kataloga.
