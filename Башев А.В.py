@@ -34,7 +34,7 @@ def task19(H):
 
 def task20(H):
     N = 2**H
-    return H
+    return N
 
 
 if __name__ == "__main__":
