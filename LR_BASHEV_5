@@ -1,7 +1,0 @@
-by using command "ps" mojno uznat information ob vseh orkakihto konkretnih processah ispolzuja keys
-by using command "top" mojnouznat information o stepeni ispolzonanija resursov system, kolichestvo users and time of work
-by using comand "pstree" mojno vivesti information o processah v vide dereva
-vo vremya ispolzovanija command "top" mojno vipolnyat razhie dejstvija najimaja na klavishi:
-Naprimer: klavisha f pozvolyaet nastroit otobrajenie polej v verhu okna top; klavisha r pozvolyaet sort process po zagruzke cpu; klavisha d for edit interval update; 
-by using "fg" and "bg" mojno upravlyat processami and peremeshat ih na perednij plan or ubrat ih v fon
-by using comand "kill" mojno zavershat processi. poluchit polnij spisok vseh komand mojno vospolzovavshis comans "kill -l" 
