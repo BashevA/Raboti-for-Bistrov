@@ -1,8 +1,0 @@
-by using cammand "cat" mojno ispolzovat for union files and output them on screen. Primer: cat filename.txt.: vvedya this comand ona output nam soderjimoe file_name.txt 
-by using command "sort" mojno sortirovat information, kotoraja nam nujna v nujnom nam poryadke. Napr imer: sort file_name.tx. otsortiruet nam information iz dannogo file and vivedet nam ee v alfavitnom poryadke. 
-by using command "is -1" | sort -k 6.3M" we otsortiruem znachenija vivodimie nam po month 
-by using command "cut" mojno vivodit information iz file v nujnom nam formate. Naprimer; cut - -f1 fil e nametxt vivedet nam information iz dannofo file but eto budet tolko daanie nakhodyashiyesya v nachale kajdoj string.
-by using command "dif" mojno sravnivat soderjimoe file. Naprimer: diff -u file_name1 file_name2 
-by using command "uniq" mojno udalat repetitive information. Naprimer: uniq file_namei file_name2 vedet tolko unikalnie stroko iz this file
-by using command env mojno vivesti on screen information all peremennih. Naprimer: env 
-by using command "term" mojno uznat tip user terminal. Naprimer: echo term.
